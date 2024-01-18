@@ -1,0 +1,8 @@
+// Copy the text before the - using Multiple cursors
+
+Blob Storage - 1
+Static website (Blob Storage) + 2
+Data Lake Storage Gen2 - 3
+Azure Files # 4
+Queue Storage | 5
+Table Storage - 6

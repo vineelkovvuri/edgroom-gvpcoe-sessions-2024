@@ -1,0 +1,9 @@
+// Copy the Country names using Multiple cursors
+
+Country | Population
+---------------------
+India | 1.43 billion
+China | 1.43 billion
+United States | 340 million
+Indonesia | 278 million
+Pakistan | 241 million
