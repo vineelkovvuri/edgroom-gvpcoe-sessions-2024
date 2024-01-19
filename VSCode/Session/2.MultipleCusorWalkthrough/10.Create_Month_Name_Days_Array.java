@@ -1,3 +1,7 @@
+// 1. Searching Method(Ctrl+D)
+// 2. Dragging Method(Ctrl+Alt+Up/Down)
+// 3. Selecting Lines Method(Shift+Alt+I)
+// 4. Find All Method(Ctrl+F > Alt+Enter)
 
 Input:
 January - 31 days

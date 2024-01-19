@@ -1,5 +1,7 @@
 // https://www.geeksforgeeks.org/introduction-to-binary-tree-data-structure-and-algorithm-tutorials
 
+// Replace the word 'left' to 'leftChild'
+
 class Node {
     int key;
     Node left, right;

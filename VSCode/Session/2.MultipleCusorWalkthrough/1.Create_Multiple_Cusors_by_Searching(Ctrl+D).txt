@@ -1,3 +1,5 @@
+// Change 'the' to 'THE'
+
 At its launch in 2004, Gmail provided a storage capacity of one gigabyte per
 user, which was significantly higher than its competitors offered at the time.
 Today, the service comes with 15 gigabytes of storage for free for individual
