@@ -1,4 +1,5 @@
-// Clean up the line number
+// Clean up the line number. And also explain how to uniformly move the
+// cursors for both one word country names and two word country names
 
 1	India
 2	China

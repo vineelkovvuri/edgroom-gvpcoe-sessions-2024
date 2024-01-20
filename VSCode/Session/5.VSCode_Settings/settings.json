@@ -1,6 +1,7 @@
 {
     "editor.accessibilitySupport": "off",
     "explorer.confirmDragAndDrop": false,
+    "workbench.editor.enablePreview" : false,
     "editor.rulers": [
         80,
         100
